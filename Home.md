@@ -1,1 +1,0 @@
-This is example for my github wiki.
